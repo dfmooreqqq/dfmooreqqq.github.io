@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "dfmooreqqq",
-    "repositoryName": "dfmooreqqq.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"dfmooreqqq","repositoryName":"dfmooreqqq.github.io","branch":"master"},"site":{"title":"Daniel Moore","description":"We're working on it. All of it; Everything in its entirety.","postsPerPage":"5","url":"https://dfmooreqqq.github.io"},"socialnetwork":{"github":"dfmooreqqq"},"theme":{"name":"Casper","url":"//dfmooreqqq.github.io/themes/Casper"}}
